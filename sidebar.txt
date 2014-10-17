@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[haz:home|Door43 (haz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-haz|d43-haz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-haz/archive/master.zip|d43-haz.zip]]
+
+**Recent Changes**
+{{changes>ns = haz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/haz|Ethnologue data]]
+
